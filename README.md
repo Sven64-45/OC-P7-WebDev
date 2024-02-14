@@ -17,6 +17,10 @@ Ce projet a pour but de créer le backend d'un site d'une librairie en utilisant
 - JWT (JSON Web Tokens) pour l'authentification
 - Bcrypt pour le hashage des mot de passe
 
+## Challenges rencontrés 
+- Apprentissage de l'application Atlas MongoDB, utilisation des cours OpenClassroom sur ExpressJS et MongoDB.
+- Problème de connexion entre la bdd MongoDB (internet) et le backend en ExpressJs: Problème de résolution de DNS en partage de connexion mobile. Solution trouvée en utilisant la console et en analysant le chemin parcourue par la requete de l'API.
+
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
